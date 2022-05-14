@@ -2,7 +2,7 @@
 - 😄 Pronouns: he/him
 
 - 🔭 I’m currently working on a software development bootcamp through CodeFellows
-- 🌱 I’m currently learning HTML, CSS, and JavaScript
+- 🌱 I’m currently learning HTML, CSS, and JavaScript (starting Python in July)
 <!--
 **JRay87/Jray87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
